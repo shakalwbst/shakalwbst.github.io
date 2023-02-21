@@ -1,0 +1,107 @@
+{
+  "short_name": "Las-Vegas",
+  "name": "Las-Vegas | Social Gaming",
+  "description": "Las-Vegas expand social networking, where you can play video chat multiple games with friends and followers using virtual coins",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "images/64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "images/32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "images/24x24.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "images/16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "images/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    
+    {
+      "src": "images/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/profile",
+  "id": "Las-Vegas",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#0f1119",
+  "shortcuts": [
+    {
+      "name": "Profile",
+      "description": "View Profile page",
+      "url": "/profile",
+      "icons": [
+        {
+          "src": "images/96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Friends",
+      "description": "View the list of friends, mutual friends, block friends",
+      "url": "/friends",
+      "icons": [
+        {
+          "src": "images/96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Settings",
+      "description": "View the setting and transaction history",
+      "url": "/settings",
+      "icons": [
+        {
+          "src": "images/96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/registerPage.png",
+      "sizes": "356x735",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Register Page"
+    }
+  ],
+  "categories": [
+    "social-media",
+    "media",
+    "casino",
+    "multi-player",
+    "poker",
+    "blackjack",
+    "sports-bet",
+    "entertainment"
+  ]
+}

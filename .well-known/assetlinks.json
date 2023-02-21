@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "com.las_vegas.twa",
+                     "sha256_cert_fingerprints": ["BF:5E:0C:5C:BB:08:C6:F7:D7:6B:35:F7:CD:7A:77:04:F2:74:94:E0:8D:E7:CE:62:EC:E1:A6:67:BF:CC:82:2E","97:A1:22:71:E3:A4:F5:8F:12:E9:78:8A:3E:DE:7C:5B:E1:2C:5D:6B:F8:74:C8:2B:CC:CB:AA:54:13:0A:C1:16"] }
+      }
+]
